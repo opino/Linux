@@ -1,5 +1,9 @@
 
-# Linux Befehle
+# Linux Überlebenshandbuch 
+
+Dieses Buch könnte Ihr Leben retten!
+
+Praktisches Survival-Buch zum Überleben in Linux. So wunderschön Linux auch ist, so hilflos sind wir ihm im schlimmsten Fall ausgeliefert!
 
 ## unterüberschrift
 
