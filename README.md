@@ -19,7 +19,10 @@ Eine Sammelsurium von Befehlen die man ständig vergisst.
 
 - [Kapitel 1 - cronjobs](./ch01_cronjobs.md)
 
-
+Crontab fuer alle Benutzer auflisten:
+```
+for user in $(cut -f1 -d: /etc/passwd); do crontab -u $user -l; done
+```
 
 
 - [Ch 2     - tmux](./ch02_tmux.md)
