@@ -17,7 +17,12 @@ Eine Sammelsurium von Befehlen die man ständig vergisst.
 
 ### Erster Teil: 
 
-- [Kapitel 1 - chronjobs](./ch01_chronjobs.md)
+- [Kapitel 1 - cronjobs](./ch01_cronjobs.md)
+
+```
+for user in $(cut -f1 -d: /etc/passwd); do crontab -u $user -l; done
+´´´
+
 - [Ch 2     - tmux](./ch02_tmux.md)
 
 ### Zweiter Teil: 
