@@ -23,6 +23,7 @@ Eine Sammelsurium von Befehlen die man ständig vergisst.
 for user in $(cut -f1 -d: /etc/passwd); do crontab -u $user -l; done
 ´´´
 
+
 - [Ch 2     - tmux](./ch02_tmux.md)
 
 ### Zweiter Teil: 
