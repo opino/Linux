@@ -24,6 +24,17 @@ Crontab fuer alle Benutzer auflisten:
 for user in $(cut -f1 -d: /etc/passwd); do crontab -u $user -l; done
 ```
 
+erst Disk vergrößern,
+dann Partition vergrößern
+
+```
+parted /dev/sdd resizepart 1 '100%'
+parted /dev/sdd print
+resize2fs /dev/sdd1
+```
+
+
+
 
 - [Ch 2     - tmux](./ch02_tmux.md)
 
