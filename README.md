@@ -7,11 +7,11 @@
 
 ### Prologue
 
-- [Ch 0     - Einleitung](./ch00_einleitung.md)
+- [Kapitel 0 - Einleitung](./ch00_einleitung.md)
 
 ### Erster Teil: 
 
-- [Ch 1     - chronjobs](./ch01_chronjobs.md)
+- [Kapitel 1 - chronjobs](./ch01_chronjobs.md)
 - [Ch 2     - tmux](./ch02_tmux.md)
 
 ### Zweiter Teil: 
