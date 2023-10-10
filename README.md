@@ -32,7 +32,11 @@ parted /dev/sdd resizepart 1 '100%'
 parted /dev/sdd print
 resize2fs /dev/sdd1
 ```
+Belegten Festplattenplatz ermitteln
 
+```
+du -h --max-depth 1 ./ | sort -h
+```
 
 
 
