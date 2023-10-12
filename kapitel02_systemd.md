@@ -9,13 +9,13 @@ https://askubuntu.com/questions/1012912/systemd-logs-journalctl-are-too-large-an
   
 /etc/systemd/journald.conf.d/01-journal-size.conf
 
-´´´
+```
 [Journal]
 SystemMaxUse=200M
 SystemMaxFileSize=128M
-´´´
+```
 
 
-´´´
+```
 journalctl --disk-usage
-´´´
+```
