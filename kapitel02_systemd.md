@@ -4,6 +4,7 @@
 
 https://askubuntu.com/questions/1012912/systemd-logs-journalctl-are-too-large-and-slow
 
+### Größenbeschränkungen für die journalctllog 
 
 * dsfgdsfg
   
