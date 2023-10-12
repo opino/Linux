@@ -19,6 +19,9 @@ Eine Sammelsurium von Befehlen die man ständig vergisst.
 
 - [Kapitel 1 - cronjobs](./ch01_cronjobs.md)
 - [Kapitel 1 - Bash](./kapitel01_bash.md)
+- [Kapitel 2 - Systemd](./kapitel02_systemd.md)
+
+
 
 
 
