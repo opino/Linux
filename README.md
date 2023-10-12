@@ -18,6 +18,9 @@ Eine Sammelsurium von Befehlen die man ständig vergisst.
 ### Erster Teil: 
 
 - [Kapitel 1 - cronjobs](./ch01_cronjobs.md)
+- [Kapitel 1 - Bash](./kapitel01_bash.md)
+
+
 
 Crontab fuer alle Benutzer auflisten:
 ```
