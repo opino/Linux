@@ -25,10 +25,7 @@ Eine Sammelsurium von Befehlen die man ständig vergisst.
 
 
 
-Crontab fuer alle Benutzer auflisten:
-```
-for user in $(cut -f1 -d: /etc/passwd); do crontab -u $user -l; done
-```
+
 
 erst Disk vergrößern,
 dann Partition vergrößern
