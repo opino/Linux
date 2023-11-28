@@ -23,14 +23,7 @@ Eine Sammelsurium von Befehlen die man ständig vergisst.
 - [Kapitel 4 - parted](./teil01_kapitel04_parted.md)
 - [Kapitel 5 - cronjobs](./teil01_kapitel05_du.md)
 
-erst Disk vergrößern,
-dann Partition vergrößern
 
-```
-parted /dev/sdd resizepart 1 '100%'
-parted /dev/sdd print
-resize2fs /dev/sdd1
-```
 Belegten Festplattenplatz ermitteln
 
 ```
