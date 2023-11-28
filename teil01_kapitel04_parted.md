@@ -1,34 +1,14 @@
-# Bash
-Dieses Kapitel sollte in 3 Teile eingeteilt werden
-
-1. Übersichten, Tabellen und Referenzen
-1. Inital Einstellungen
-1. Bash Programierung
+# parted 
 
 ## Übersichten, Tabellen und Referenzen 
-### Rückgabewerte
+
+### Partion & Disks vergrößern
+
+erst Disk vergrößern,
+dann Partition vergrößern
+
 ```
-$?    Rückgabe wert des letzten Befehls
+parted /dev/sdd resizepart 1 '100%'
+parted /dev/sdd print
+resize2fs /dev/sdd1
 ```
-### Bash Handbücher
-1. https://tldp.org/LDP/abs/html/refcards.html#AEN22402
-1. https://tldp.org/LDP/abs/html/
-1. https://www-user.tu-chemnitz.de/~hot/unix_linux_werkzeugkasten/bash.html#testexpr
-1. https://www.gnu.org/software/bash/manual/html_node/index.html#SEC_Contents
-
-## Initale Einstellungen
-
-# history
-
-https://askubuntu.com/questions/67283/is-it-possible-to-make-writing-to-bash-history-immediate
-
-Try putting this into your .bashrc:
-```
-shopt -s histappend                      # append to history, don't overwrite it
-export PROMPT_COMMAND="history -a; history -c; history -r; $PROMPT_COMMAND"
-```
-
-## Bash Programierung
-
-
-
