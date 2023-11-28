@@ -36,12 +36,19 @@ Belegten Festplattenplatz ermitteln
 du -h --max-depth 1 ./ | sort -h
 ```
 
-- [Ch 2     - tmux](./ch02_tmux.md)
-
 ### Zweiter Teil: 
+- [Kapitel 1 - Git](./teil02_kapitel01_git.md)
+- [Kapitel 2 - Vim](./teil02_kapitel02_vim.md)
+- [Kapitel 3 - docker](./teil02_kapitel03_docker.md)
+- [Kapitel 4 - dummy](./teil02_kapitel04_dummy.md)
+- [Kapitel 5 - dummy](./teil02_kapitel05_dummy.md)
+- [Kapitel 6 - dummy](./teil02_kapitel06_dummy.md)
+- [Kapitel 7 - dummy](./teil02_kapitel07_dummy.md)
+- [Kapitel 8 - dummy](./teil02_kapitel08_dummy.md)
+- [Kapitel 9- dummy](./teil02_kapitel09_dummy.md)
+- [Kapitel 10 - dummy](./teil02_kapitel10_dummy.md)
 
-- [Ch 22 - Vim](./ch22_.md)
-- [Ch 23 - docker](./ch23_docker.md)
+
 
 
 ### Dritter Teil: 
