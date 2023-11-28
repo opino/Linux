@@ -2,9 +2,9 @@
 
 Dieses Kapitel sollte in 3 Teile eingeteilt werden
 
-übersichten, Tabellen Referenzen
-inital einstellungen
-Shell Programierung
+1. übersichten, Tabellen Referenzen
+1. inital einstellungen
+1. Shell Programierung
 
 
 
