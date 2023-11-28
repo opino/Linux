@@ -7,7 +7,7 @@ $?    Rückgabe wert des letzten Befehls
 
 ## Bash Programierung
 
-## Bash Hanbücher
+## Bash Handbücher
 
 https://tldp.org/LDP/abs/html/refcards.html#AEN22402
 https://tldp.org/LDP/abs/html/
