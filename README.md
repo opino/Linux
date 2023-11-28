@@ -24,11 +24,7 @@ Eine Sammelsurium von Befehlen die man ständig vergisst.
 - [Kapitel 5 - du](./teil01_kapitel05_du.md)
 
 
-Belegten Festplattenplatz ermitteln
 
-```
-du -h --max-depth 1 ./ | sort -h
-```
 
 ### Zweiter Teil: 
 - [Kapitel 1 - Git](./teil02_kapitel01_git.md)
