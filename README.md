@@ -20,7 +20,8 @@ Eine Sammelsurium von Befehlen die man ständig vergisst.
 - [Kapitel 1 - Bash](./teil01_kapitel01_bash.md)
 - [Kapitel 2 - Systemd](./teil01_kapitel02_systemd.md)
 - [Kapitel 3 - cronjobs](./teil01_kapitel03_cronjobs.md)
-
+- [Kapitel 4 - parted](./teil01_kapitel04_parted.md)
+- [Kapitel 5 - cronjobs](./teil01_kapitel05_du.md)
 
 erst Disk vergrößern,
 dann Partition vergrößern
