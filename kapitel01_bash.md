@@ -1,5 +1,13 @@
 # Bash
 
+Dieses Kapitel sollte in 3 Teile eingeteilt werden
+
+übersichten, Tabellen Referenzen
+inital einstellungen
+Shell Programierung
+
+
+
 ```
 $?    Rückgabe wert des letzten Befehls
 ```
