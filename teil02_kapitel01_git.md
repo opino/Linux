@@ -1,4 +1,10 @@
 # Git
+Ende 2023 habe ich noch nicht die Fachbegriffe verinnerlicht. Ich verwende gerne
+den Begriff des "eincheckens", was aber eine Vokabel aus der SVN Welt ist.
+In nicht allzuferne Zukunft werde ich mich mit den begrifflichkeiten von Git 
+beschäftigen und damit final dieses Kapitel auf Expertenniveau anhben. Solange 
+dieser Kommentar noch vorhanden ist sind die Beschreibungstexte kritisch zu hinterfragen.
+
 
 ## neu erzeugte Dateien Repository hinzufügen
 
