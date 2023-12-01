@@ -42,6 +42,14 @@ Eine Sammelsurium von Befehlen die man ständig vergisst.
 
 
 ### Dritter Teil: 
-
-- [Ch 25 - Vimscript Basic Data Types](./ch25_vimscript_basic_data_types.md)
-- [Ch 26 - Vimscript Conditionals And Loops](./ch26_vimscript_conditionals_and_loops.md)
+test
+- [Kapitel 1 - ffmpeg](./teil03_kapitel01_ffmpeg.md)
+- [Kapitel 2 - dummy](./teil03_kapitel02_dummy.md)
+- [Kapitel 3 - dummy](./teil03_kapitel03_dummy.md)
+- [Kapitel 4 - dummy](./teil03_kapitel04_dummy.md)
+- [Kapitel 5 - dummy](./teil03_kapitel05_dummy.md)
+- [Kapitel 6 - dummy](./teil03_kapitel06_dummy.md)
+- [Kapitel 7 - dummy](./teil03_kapitel07_dummy.md)
+- [Kapitel 8 - dummy](./teil03_kapitel08_dummy.md)
+- [Kapitel 9 - dummy](./teil03_kapitel09_dummy.md)
+- [Kapitel 10 - dummy](./teil03_kapitel10_dummy.md)
