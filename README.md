@@ -53,3 +53,38 @@ test
 - [Kapitel 8 - dummy](./teil03_kapitel08_dummy.md)
 - [Kapitel 9 - dummy](./teil03_kapitel09_dummy.md)
 - [Kapitel 10 - dummy](./teil03_kapitel10_dummy.md)
+
+### Nichts ist beständiger als die Veränderung b.z.w. unendlicher mentaler Schmerz
+
+In der neuen Softwareversion wurden die Menuepunke verschoben oder umbenannt. In 
+der neuen Windows Version geht plötzlich nichts mehr weil der Administrator 
+nicht mehr die Knöpfe findet. 
+
+Diese warme Gefühl, jetzt auch mit Linux. Spätestens nach der Einführung von 
+Systemd funktionierte nichts mehr wie gewohnt, schnell wurde eine einfache 
+Aufgaben, wie Netzwerk Neustarten zum Google-Such-Spiel. 
+
+Man kann sich drüber aufregen, das früher alles besser war, meine 
+Idee an dieser Stelle ist es, die Situation systematisch zu beschreiben.
+
+
+* Software installieren/Paketmanger
+
+* Services/Dienste starten beenden
+
+* IP Adresse anzeigen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
