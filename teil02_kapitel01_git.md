@@ -1,16 +1,10 @@
 # Git
 
-## Git Einstallungen
-
-
+## Git Einstellungen
 
 ```
 git config --global core.editor "vim"
 ```
-
-
-
-
 
 ## github und die Sicherheit 
 
