@@ -54,19 +54,22 @@ test
 - [Kapitel 9 - dummy](./teil03_kapitel09_dummy.md)
 - [Kapitel 10 - dummy](./teil03_kapitel10_dummy.md)
 
-### Nichts ist beständiger als die Veränderung b.z.w. unendlicher mentaler Schmerz
+### Nichts ist beständiger als die Veränderung
 
 In der neuen Softwareversion wurden die Menuepunke verschoben oder umbenannt. In 
-der neuen Windows Version geht plötzlich nichts mehr weil der Administrator 
-nicht mehr die Knöpfe findet. 
+der neuen Windows Version geht plötzlich nichts mehr weil die Schaltflächen 
+an einer anderen Stelle plaziert sind. 
 
-Diese warme Gefühl, jetzt auch mit Linux. Spätestens nach der Einführung von 
-Systemd funktionierte nichts mehr wie gewohnt, schnell wurde eine einfache 
-Aufgaben, wie Netzwerk Neustarten zum Google-Such-Spiel. 
+Diese Gefühle der Enttäuschung, des Ärgers, die Wut gibt es jetzt auch mit Linux.
+Spätestens nach der Einführung von Systemd funktionierte nichts mehr wie gewohnt,
+schnell wurde einfache Aufgaben, wie Netzwerk Neustarten zum einen Google-Such-Spiel. 
 
-Man kann sich drüber aufregen, das früher alles besser war, meine 
-Idee an dieser Stelle ist es, die Situation systematisch zu beschreiben.
+Früher war alles besser, man muss ich aber mit der Situation aragieren. Administratoren
+die noch fünf bis 10 Jahre vor sich haben schieben die neuen Entwicklungen an die
+jungen Kollenen ab, z.B. dieses ganze Zertifikatezeug. 
 
+Meine Idee ist es die veränderungen systematisch zu bescheiben. Eine Übersicht 
+des vorher/nacher. 
 
 * Software installieren/Paketmanger
 
@@ -74,7 +77,7 @@ Idee an dieser Stelle ist es, die Situation systematisch zu beschreiben.
 
 * IP Adresse anzeigen
 
-
+* Zertifikate
 
 
 
