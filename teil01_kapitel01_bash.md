@@ -8,14 +8,14 @@ Dieses Kapitel sollte in 3 Teile eingeteilt werden
 ## Übersichten, Tabellen und Referenzen 
 ### Tastatursteuerung
 
-|Strg-A	|Cursor am Zeilenanfang positionieren |
-|Strg-E	|Cursor am Zeilenende positionieren |
-|»Linker Pfeil« Strg-B	| Cursor, ohne zu löschen, ein Zeichen nach links bewegen|
-|»Rechter Pfeil« Strg-F |	Cursor, ohne zu löschen, ein Zeichen nach rechts bewegen |
-|DEL	| Das Zeichen links vom Cursor wird gelöscht |
-|Strg-D	| Das Zeichen unter dem Cursor wird gelöscht |
-|Strg-U |	Vom Cursor bis zum Zeilenanfang alle Zeichen löschen |
-|Strg-K |	Vom Cursor bis zum Zeilenende alle Zeichen löschen |
+| Strg-A	| Cursor am Zeilenanfang positionieren |
+| Strg-E	| Cursor am Zeilenende positionieren |
+| »Linker Pfeil« Strg-B	| Cursor, ohne zu löschen, ein Zeichen nach links bewegen|
+| »Rechter Pfeil« Strg-F |	Cursor, ohne zu löschen, ein Zeichen nach rechts bewegen |
+| DEL	| Das Zeichen links vom Cursor wird gelöscht |
+| Strg-D	| Das Zeichen unter dem Cursor wird gelöscht |
+| Strg-U |	Vom Cursor bis zum Zeilenanfang alle Zeichen löschen |
+| Strg-K |	Vom Cursor bis zum Zeilenende alle Zeichen löschen |
 
 
 
