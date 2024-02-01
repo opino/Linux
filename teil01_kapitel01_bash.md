@@ -7,6 +7,7 @@ Dieses Kapitel sollte in 3 Teile eingeteilt werden
 
 ## Übersichten, Tabellen und Referenzen 
 ### Tastatursteuerung
+
 |Tastenkürzel| abcde |
 |---------|------------------|
 | Strg-A	| Cursor am Zeilenanfang positionieren |
@@ -17,6 +18,40 @@ Dieses Kapitel sollte in 3 Teile eingeteilt werden
 | Strg-D	| Das Zeichen unter dem Cursor wird gelöscht |
 | Strg-U |	Vom Cursor bis zum Zeilenanfang alle Zeichen löschen |
 | Strg-K |	Vom Cursor bis zum Zeilenende alle Zeichen löschen |
+
+Wortsteuerung:
+|        | |
+|-------|-------|
+
+| Esc b | Ein Wort zurück bewegen |
+| Esc f | 	Ein Wort vor bewegen |
+| Esc DEL Strg-W	 |Das Wort links vom Cursor löschen |
+| Esc d | 	Das Wort unter dem Cursor löschen |
+| Strg-Y |	Das zuletzt gelöschte Wort zurückholen |
+
+ Historysteuerung: 
+|        | |
+|-------|-------|
+| »Pfeil nach oben« Strg-P|	Die vorherige Zeile zurückholen |
+| »Pfeil nach unten« Strg-N | 	Die nächste Zeile zurückholen |
+| Strg-R | 	Rückwärts suchen |
+| Esc <	| Die erste Zeile der History hervorholen |
+| Esc >	| Die letzte Zeile der History hervorholen |
+
+ Zeichensteuerung: 
+|        | |
+|-------|-------|
+| Strg-T	Vertauscht das unter dem Cursor stehende Zeichen mit seinem linken Nachbarn |
+| Strg-V	Das nächste eingegebene Zeichen wird maskiert, d. h. seiner besonderen Bedeutung beraubt |
+
+ Prozesssteuerung: 
+|        | |
+|-------|-------|
+| Strg-C | 	Unterbricht das gerade laufende Kommando |
+| Strg-S |	Bildschirmausgabe anhalten |
+| Strg-Q |	Gehaltene Bildschirmausgabe fortsetzen |
+
+
 
 
 
