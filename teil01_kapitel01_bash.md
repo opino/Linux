@@ -7,7 +7,8 @@ Dieses Kapitel sollte in 3 Teile eingeteilt werden
 
 ## Übersichten, Tabellen und Referenzen 
 ### Tastatursteuerung
-
+|Tastenkürzel| abcde |
+|---------|------------------|
 | Strg-A	| Cursor am Zeilenanfang positionieren |
 | Strg-E	| Cursor am Zeilenende positionieren |
 | »Linker Pfeil« Strg-B	| Cursor, ohne zu löschen, ein Zeichen nach links bewegen|
