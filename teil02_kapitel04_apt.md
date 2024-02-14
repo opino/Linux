@@ -1,6 +1,16 @@
 # Paketverwaltung mit apt  
 
-## Dummy unterthema
+## apt
+
+
+* apt-get update downloads the package lists from the repositories and "updates" them to get information on the newest versions of packages and their dependencies. It will do this for all repositories and PPAs.
+* apt-get upgrade will fetch new versions of packages existing on the machine if APT knows about these new versions by way of apt-get update.
+
+ 
+```
+apt update && apt upgrade
+```
+
 
 ## dpkg 
 
