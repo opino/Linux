@@ -30,7 +30,7 @@ Eine Sammelsurium von Befehlen die man ständig vergisst.
 - [Kapitel 1 - Git](./teil02_kapitel01_git.md)
 - [Kapitel 2 - Vim](./teil02_kapitel02_vim.md)
 - [Kapitel 3 - docker](./teil02_kapitel03_docker.md)
-- [Kapitel 4 - dummy](./teil02_kapitel04_dummy.md)
+- [Kapitel 4 - apr/dpkg](./teil02_kapitel04_apt.md)
 - [Kapitel 5 - dummy](./teil02_kapitel05_dummy.md)
 - [Kapitel 6 - dummy](./teil02_kapitel06_dummy.md)
 - [Kapitel 7 - dummy](./teil02_kapitel07_dummy.md)
