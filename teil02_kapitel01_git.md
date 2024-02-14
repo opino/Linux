@@ -16,6 +16,16 @@ erzeugt werden der für alle Repros gültig sein kann.
 Token: all_access:
 
 
+GitHub account, go to Settings 
+→ Developer Settings 
+→ Personal Access Token 
+→ Tokens (classic) 
+→ Generate New Token (Give your password) 
+→ Fillup the form → click Generate token 
+→ Copy the generated Token, it will be something like ghp_sFhFsSHhTzMDreGRLjmks4Tzuzgthdvfsrta
+
+
+
 ## neu erzeugte Dateien Repository hinzufügen
 
 git mitteilen das es neue Dateien gibt:
