@@ -36,7 +36,7 @@ Eine Sammelsurium von Befehlen die man ständig vergisst.
 - [Kapitel 7 - dummy](./teil02_kapitel07_dummy.md)
 - [Kapitel 8 - dummy](./teil02_kapitel08_dummy.md)
 - [Kapitel 9- dummy](./teil02_kapitel09_dummy.md)
-- [Kapitel 10 - dummy](./teil02_kapitel10_dummy.md)
+- [Kapitel 10 - LPCI Kurs Datei noch umbenenne dummy](./teil02_kapitel10_dummy.md)
 
 
 
