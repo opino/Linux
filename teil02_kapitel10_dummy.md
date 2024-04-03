@@ -1,5 +1,11 @@
 # LPIC-1-Vorbereitung
 
+## Meine Anmerkungen
+
+Das Zeichen »« löst nur Verwirrung aus. Ich Vermute es geht um die Variablennamen die mit ${} gekrennzeichnet werden sollen.
+
+Es fehlen die vordefinierten "Spezielle Variablen", Siehe hier https://ryanstutorials.net/bash-scripting-tutorial/bash-variables.php
+
 
 Aus Linux-Magazin 04/2007 - https://www.linux-magazin.de/ausgaben/2007/04/grosser-shell-atlas/
 ## LPIC-1-Vorbereitung - Teil 9: Shell anpassen und Skripteschreiben
