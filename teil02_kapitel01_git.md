@@ -6,6 +6,14 @@
 git config --global core.editor "vim"
 ```
 
+## Git Commitnachrichten
+
+to alter, modify, rephrase, or add to or subtract from (a motion, bill, constitution, etc.) by formal procedure
+
+```
+git commit --amend
+```
+
 ## github und die Sicherheit 
 
 Damit man im Jahre 2023 mit Github noch arbeiten kann wurden spezielle Token ersonnen die die 
