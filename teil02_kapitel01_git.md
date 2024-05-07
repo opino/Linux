@@ -6,7 +6,7 @@
 git config --global core.editor "vim"
 ```
 
-## Git Commitnachrichten
+## Git Commit-Nachrichten vor dem push ändern
 
 to alter, modify, rephrase, or add to or subtract from (a motion, bill, constitution, etc.) by formal procedure
 
