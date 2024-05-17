@@ -50,3 +50,11 @@ Die daten ins Git Repository schieben
 ```
 git push
 ```
+
+Git push vs. pull
+
+Daten in das Repositorie schieben push
+Daten aus dem Repository ziehen pull
+
+
+
