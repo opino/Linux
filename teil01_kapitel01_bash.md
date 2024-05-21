@@ -83,7 +83,7 @@ Bash 3.0+ can use this syntax:
 ```
 for i in {1..10} ; do ... ; done
 ```
-or like your grandpa:
+which avoids spawning an external program to expand the sequence (such as seq 1 10).
 ```
 for i in $(seq 1 10); do echo $i done
 ```
