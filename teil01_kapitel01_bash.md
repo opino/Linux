@@ -79,5 +79,11 @@ export PROMPT_COMMAND="history -a; history -c; history -r; $PROMPT_COMMAND"
 
 ## Bash Programierung
 
+Bash 3.0+ can use this syntax:
+```
+for i in {1..10} ; do ... ; done
+```
 
-
+```
+for i in $(seq 1 10); do echo $i done
+```
