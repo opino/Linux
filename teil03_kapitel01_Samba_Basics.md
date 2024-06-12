@@ -1,7 +1,7 @@
 # Topic 301: Samba Basics
 
 ## 301.1 Samba Concepts and Architecture 
-Wight 2
+Weight 2
 
 Candidates should understand the essential concepts of Samba, including the various Samba server processes and networking protocols used by Samba when acting in various roles. Samba version 4.8 or higher is covered.
 
