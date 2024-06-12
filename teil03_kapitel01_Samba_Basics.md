@@ -62,3 +62,73 @@ The following is a partial list of the used files, terms and utilities:
 * Microsoft ADSI Edit
 * Microsoft LDP
 * Microsoft Regedit
+
+## 301.3 Regular Samba Maintenance
+Weight 2
+
+Candidates should know the various tools and utilities that are part of a Samba installation.
+
+Key Knowledge Areas:
+
+* Start and stop Samba services on domain controllers and file servers
+* Monitor and interact with running Samba daemons
+* Backup and restore TDB files
+* Backup and restore an Active Directory domain controller
+* Understand backup and recovery strategies for Active Directory domain controllers
+* Understand the impact of virtualization on Active Directory domain controllers
+
+The following is a partial list of the used files, terms and utilities:
+
+* systemctl
+* smbcontrol (including relevant message types)
+* smbstatus
+* tdbbackup
+* tdbrestore
+* samba-tool domain backup (including subcommands)
+* Virtual Machine Generation Identifier
+* Virtual Machine Snapshots
+
+301.4 Troubleshooting Samba
+Weight 3
+
+Candidates should be able to analyze and troubleshoot Samba issues. This includes accessing and modifying the LDAP content of a Samba server hosting an Active directory as well as working with trivial database files. Furthermore, candidates should be able to create a renamed clone of an existing Active Directory for debugging.
+
+Key Knowledge Areas:
+
+* Configure Samba logging, including setting log levels for specific debug classes and client-specific logging
+* Query and modify the Samba password database
+* Understand the contents of important TDB files
+* List and edit TDB file content
+* Identify TDB file corruption
+* Access and modify objects in a Samba LDAP directory
+* Enable and use the LDAP recycle bin
+* Confirm the integrity of a domain controller’s database
+* Create a renamed clone of a domain controller
+* Awareness of Samba eventlog shipping
+* Use rpcclient to query information on a Samba server
+
+The following is a partial list of the used files, terms and utilities:
+
+* smb.conf:
+** log level
+** debuglevel
+* /var/log/samba/
+* smbpasswd
+* pdbedit
+* registry.tdb
+* secrets.tdb
+* tdbdump
+* tdbtool
+* ldbsearch
+* ldbmodify
+* ldbedit
+* ldbadd 
+* ldbdel
+* LDIF
+* samba-tool dbcheck
+* samba-tool domain backup (including relevant subcommands)
+* rpcclient
+
+
+
+
