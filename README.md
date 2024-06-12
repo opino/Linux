@@ -23,7 +23,7 @@ Eine Sammelsurium von Befehlen die man ständig vergisst.
 - [Kapitel 4 - parted](./teil01_kapitel04_parted.md)
 - [Kapitel 5 - du](./teil01_kapitel05_du.md)
 - [Kapitel 6 - bash history](./teil01_kapitel06_bash_history.md)
-- [Kapitel 7 - ffmpeg](./teil03_kapitel01_ffmpeg.md)
+- [Kapitel 7 - ffmpeg](./teil01_kapitel07_ffmpeg.md)
 
 
 ### Zweiter Teil: 
