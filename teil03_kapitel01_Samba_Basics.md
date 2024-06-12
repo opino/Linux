@@ -18,3 +18,47 @@ Key Knowledge Areas:
 Partial list of the used files, terms and utilities:
 
 smbd, nmbd, samba, winbindd
+
+
+## 301.2 Samba Configuration 
+Weight 4
+
+Candidates should be able to configure the Samba daemons.
+
+Key Knowledge Areas:
+
+* Manage Samba server file-based configuration
+* Manage of Samba server registry-based configuration
+* Manage of Samba configuration parameters and variables
+* Understand Samba server roles and security modes
+* Configure Samba to use TLS
+* Check the validity of a Samba configuration
+* Troubleshoot and debug configuration problems with Samba
+* Understand Windows tools used to configure a Samba Server
+
+The following is a partial list of the used files, terms and utilities:
+
+* smb.conf
+** security
+** server role
+** server string
+** server services
+** tls enabled
+** tls keyfile
+** tls certfile
+** tls dh params file
+** tls cafile
+** config backend
+** registry shares
+** include
+** vfs objects
+* samba-regedit
+* HKLM\Software\Samba\
+* REG_SZ, REG_MULTI_SZ
+* testparm
+* net registry (including relevant subcommands)
+* Microsoft RSAT Tools
+* Microsoft MMC
+* Microsoft ADSI Edit
+* Microsoft LDP
+* Microsoft Regedit
