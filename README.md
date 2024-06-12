@@ -42,7 +42,7 @@ Eine Sammelsurium von Befehlen die man ständig vergisst.
 
 
 ### LPIC-3 Mixed Environments Exam 300 Objectives
-- Samba Basics [Kapitel 1 - ffmpeg](./teil03_kapitel01_ffmpeg.md)
+- [Kapitel 1 - Samba Basics](./teil03_kapitel01_Samba_Basics.md)
 - Samba and Active Directory Domains [Kapitel 2 - dummy](./teil03_kapitel02_dummy.md)
 - Samba Share Configuration [Kapitel 3 - dummy](./teil03_kapitel03_dummy.md)
 - Samba Client Configuration [Kapitel 4 - dummy](./teil03_kapitel04_dummy.md)
