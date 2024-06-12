@@ -14,6 +14,7 @@ Key Knowledge Areas:
 * Understand of Samba 3 and Samba 4 differences
 * Awareness of Samba VFS modules
 * Awareness of Samba Clustering and CTDB
-* Partial list of the used files, terms and utilities:
+  
+Partial list of the used files, terms and utilities:
 
 smbd, nmbd, samba, winbindd
