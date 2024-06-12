@@ -23,7 +23,7 @@ Eine Sammelsurium von Befehlen die man ständig vergisst.
 - [Kapitel 4 - parted](./teil01_kapitel04_parted.md)
 - [Kapitel 5 - du](./teil01_kapitel05_du.md)
 - [Kapitel 6 - bash history](./teil01_kapitel06_bash_history.md)
-
+- [Kapitel 7 - ffmpeg](./teil03_kapitel01_ffmpeg.md)
 
 
 ### Zweiter Teil: 
@@ -41,13 +41,12 @@ Eine Sammelsurium von Befehlen die man ständig vergisst.
 
 
 
-### Dritter Teil: 
-test
-- [Kapitel 1 - ffmpeg](./teil03_kapitel01_ffmpeg.md)
-- [Kapitel 2 - dummy](./teil03_kapitel02_dummy.md)
-- [Kapitel 3 - dummy](./teil03_kapitel03_dummy.md)
-- [Kapitel 4 - dummy](./teil03_kapitel04_dummy.md)
-- [Kapitel 5 - dummy](./teil03_kapitel05_dummy.md)
+### LPIC-3 Mixed Environments Exam 300 Objectives
+- Samba Basics [Kapitel 1 - ffmpeg](./teil03_kapitel01_ffmpeg.md)
+- Samba and Active Directory Domains [Kapitel 2 - dummy](./teil03_kapitel02_dummy.md)
+- Samba Share Configuration [Kapitel 3 - dummy](./teil03_kapitel03_dummy.md)
+- Samba Client Configuration [Kapitel 4 - dummy](./teil03_kapitel04_dummy.md)
+- Linux Identity Management and File Sharing  [Kapitel 5 - dummy](./teil03_kapitel05_dummy.md)
 - [Kapitel 6 - dummy](./teil03_kapitel06_dummy.md)
 - [Kapitel 7 - dummy](./teil03_kapitel07_dummy.md)
 - [Kapitel 8 - dummy](./teil03_kapitel08_dummy.md)
