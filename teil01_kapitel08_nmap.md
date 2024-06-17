@@ -17,8 +17,8 @@ https://nmap.org/man/de/man-briefoptions.html
 
 https://nmap.org/book/man-port-scanning-techniques.html
 
--sS (TCP SYN scan)
--sT (TCP connect scan)
--sU (UDP scans)
--sY (SCTP INIT scan)
-...
+* sS (TCP SYN scan)
+* sT (TCP connect scan)
+* sU (UDP scans)
+* sY (SCTP INIT scan)
+* ...
