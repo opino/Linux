@@ -24,6 +24,7 @@ Eine Sammelsurium von Befehlen die man ständig vergisst.
 - [Kapitel 5 - du](./teil01_kapitel05_du.md)
 - [Kapitel 6 - bash history](./teil01_kapitel06_bash_history.md)
 - [Kapitel 7 - ffmpeg](./teil01_kapitel07_ffmpeg.md)
+- [Kapitel 8 - nmap](./teil01_kapitel08_nmap.md)
 
 
 ### Zweiter Teil: 
