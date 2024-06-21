@@ -5,7 +5,7 @@
 Welchen Algorithmus sollte verwendet werden?
 
 * sicherstere Algorithmus im Juni 2024 zur Genernierung von SSH-Keys verfügbar ist, ist ED25519
-** https://www.anleitungen.rrze.fau.de/betriebssysteme/linux/sonstige-dokumentation/empfehlungen-fuer-ssh-keys/
+* * https://www.anleitungen.rrze.fau.de/betriebssysteme/linux/sonstige-dokumentation/empfehlungen-fuer-ssh-keys/
 * RSA mit geringer Schlüssellänge oder DSA gilt als unsicher
 
 ```
