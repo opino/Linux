@@ -25,7 +25,7 @@ Eine Sammelsurium von Befehlen die man ständig vergisst.
 - [Kapitel 6 - bash history](./teil01_kapitel06_bash_history.md)
 - [Kapitel 7 - ffmpeg](./teil01_kapitel07_ffmpeg.md)
 - [Kapitel 8 - nmap](./teil01_kapitel08_nmap.md)
-
+- [Kapitel 9 - ssh](./teil01_kapitel09_ssh.md)
 
 ### Zweiter Teil: 
 - [Kapitel 1 - Git](./teil02_kapitel01_git.md)
