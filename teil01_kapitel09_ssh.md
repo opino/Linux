@@ -12,16 +12,9 @@ Welchen Algorithmus sollte verwendet werden?
 ssh-keygen -o -a 100 -t ed25519
 ```
 
-### 3te überschrift Tastatursteuerung
+## Schlüssel kopieren
 
-|Tastenkürzel| abcde |
-|---------|------------------|
-| Strg-A	| Cursor am Zeilenanfang positionieren |
-| Strg-E	| Cursor am Zeilenende positionieren |
-| »Linker Pfeil« Strg-B	| Cursor, ohne zu löschen, ein Zeichen nach links bewegen|
-
-### Code 
 ```
-$?    Rückgabe wert des letzten Befehls
+ssh-copy-id -p 23 -i ~/.ssh/id_rsa.pub user@example.com
 ```
 
