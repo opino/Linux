@@ -78,7 +78,7 @@ $?    Rückgabe wert des letzten Befehls
 
 ## Initale Einstellungen
 
-# history
+### history
 
 https://askubuntu.com/questions/67283/is-it-possible-to-make-writing-to-bash-history-immediate
 
