@@ -78,7 +78,7 @@ $?    Rückgabe wert des letzten Befehls
 1. https://www.gnu.org/software/bash/manual/html_node/index.html#SEC_Contents
 
 ## Initale Einstellungen
-## Alias
+### Alias
 
 Für Debian, systemweite aliase für interaktive Shells.
 ```
@@ -98,6 +98,7 @@ export PROMPT_COMMAND="history -a; history -c; history -r; $PROMPT_COMMAND"
 
 ## Bash Programierung
 
+### for
 Bash 3.0+ can use this syntax:
 ```
 for i in {1..10} ; do ... ; done
