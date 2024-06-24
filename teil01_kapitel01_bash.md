@@ -5,11 +5,13 @@
   * [Rückgabewerte](#r-ckgabewerte)
   * [Bash Handbücher](#bash-handb-cher)
 - [Initale Einstellungen](#initale-einstellungen)
-- [Alias](#alias)
+  * [Alias](#alias)
   * [history](#history)
 - [Bash Programierung](#bash-programierung)
+  * [for](#for)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 
 
