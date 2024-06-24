@@ -77,6 +77,13 @@ $?    Rückgabe wert des letzten Befehls
 1. https://www.gnu.org/software/bash/manual/html_node/index.html#SEC_Contents
 
 ## Initale Einstellungen
+## Alias
+
+Für Debian, systemweite aliase für interaktive Shells.
+```
+/etc/profile.d/alias.sh
+```
+
 
 ### history
 
