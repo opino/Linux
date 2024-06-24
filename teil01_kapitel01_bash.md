@@ -1,5 +1,16 @@
 # Bash
-Dieses Kapitel sollte in 3 Teile eingeteilt werden
+
+- [Bash](#bash)
+  * [Übersichten, Tabellen und Referenzen](#-bersichten--tabellen-und-referenzen)
+    + [Tastatursteuerung](#tastatursteuerung)
+    + [Rückgabewerte](#r-ckgabewerte)
+    + [Bash Handbücher](#bash-handb-cher)
+  * [Initale Einstellungen](#initale-einstellungen)
+- [history](#history)
+  * [Bash Programierung](#bash-programierung)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 1. Übersichten, Tabellen und Referenzen
 1. Inital Einstellungen
