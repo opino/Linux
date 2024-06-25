@@ -114,7 +114,7 @@ export PROMPT_COMMAND="history -a; history -c; history -r; $PROMPT_COMMAND"
 |    |                        |
 | -z | String is empty        |
 | -n | String is not empty    |
-|----|------------------------|
+
 
 ####  Arithmetic  
 
