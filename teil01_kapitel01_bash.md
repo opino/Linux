@@ -100,6 +100,8 @@ export PROMPT_COMMAND="history -a; history -c; history -r; $PROMPT_COMMAND"
 
 ## Bash Programierung
 
+https://hangar118.sdf.org/p/bash-scripting-guide/reference_cards.html
+
 #### String Tests
 
 
