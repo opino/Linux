@@ -100,6 +100,8 @@ export PROMPT_COMMAND="history -a; history -c; history -r; $PROMPT_COMMAND"
 
 ## Bash Programierung
 
+### Tests
+
 https://hangar118.sdf.org/p/bash-scripting-guide/reference_cards.html
 
 #### String Tests
@@ -122,7 +124,7 @@ Prüfen ob eine Variable leer ist.
 [ -z "$host_ip" ]
 ```
 
-####  Arithmetic  
+####  Arithmetic Tests 
 
 
 |     | Arithmetic           |    
