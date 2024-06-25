@@ -100,7 +100,37 @@ export PROMPT_COMMAND="history -a; history -c; history -r; $PROMPT_COMMAND"
 
 ## Bash Programierung
 
-#### unter unterpunk
+#### String Tests
+
+|----|------------------------|
+|    | String                 |
+|    |                        |
+| =  | Equal to               |
+| == | Equal to               |
+| != | Not equal to           |
+| \< | Less than (ASCII) *    |
+|    |                        |
+| \> | Greater than (ASCII) * |
+|    |                        |
+| -z | String is empty        |
+| -n | String is not empty    |
+|----|------------------------|
+
+####  Arithmetic  
+
+|-----|--------------------------
+|     | Arithmetic               
+|     |                          
+| -eq | Equal to                 
+|     |                          
+| -ne | Not equal to             
+| -lt | Less than                
+| -le | Less than or equal to    
+| -gt | Greater than             
+| -ge | Greater than or equal to 
+|     |                          
+|     |                          
+|-----|--------------------------
 
 ### for
 Bash 3.0+ can use this syntax:
