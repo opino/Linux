@@ -8,6 +8,9 @@
   * [Alias](#alias)
   * [history](#history)
 - [Bash Programierung](#bash-programierung)
+  * [Tests](#tests)
+      - [String Tests](#string-tests)
+      - [Arithmetic Tests](#arithmetic-tests)  
   * [for](#for)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
