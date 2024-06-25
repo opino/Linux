@@ -104,7 +104,7 @@ export PROMPT_COMMAND="history -a; history -c; history -r; $PROMPT_COMMAND"
 
 
 |    | String                 |
-|    |                        |
+|----|------------------------|
 | =  | Equal to               |
 | == | Equal to               |
 | != | Not equal to           |
