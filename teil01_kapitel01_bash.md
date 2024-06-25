@@ -115,6 +115,10 @@ export PROMPT_COMMAND="history -a; history -c; history -r; $PROMPT_COMMAND"
 | -z | String is empty        |
 | -n | String is not empty    |
 
+Für Debian, systemweite aliase für interaktive Shells.
+```
+[ -z "$host_ip" ]
+```
 
 ####  Arithmetic  
 
