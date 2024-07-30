@@ -30,14 +30,12 @@
 | Strg-D	| Das Zeichen unter dem Cursor wird gelöscht |
 | Ctrl-W | Löscht das Wort links vom Cursor|
 
-Bewegen
-
+|Bewegen | |
 |---------|------------------|
 | Strg-A	| Cursor am Zeilenanfang positionieren |
 | Strg-E	| Cursor am Zeilenende positionieren |
 
-Bewegen & löschen 
-
+|Bewegen & löschen ||
 |---------|------------------|
 | Strg-U |	Vom Cursor bis zum Zeilenanfang alle Zeichen löschen |
 | Strg-K |	Vom Cursor bis zum Zeilenende alle Zeichen löschen |
