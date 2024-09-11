@@ -1,4 +1,4 @@
-N2och einsortieren, das ist im Prinzip LPC 2 Mail (aus dem Linux Magazin)
+Noch einsortieren, das ist im Prinzip LPC 2 Mail (aus dem Linux Magazin)
 
 Spam:
 Dunkle Mächte. Antispam-Blacklisten
