@@ -63,42 +63,42 @@ Eine Sammelsurium von Befehlen die man ständig vergisst.
 
 ### Erster Teil: 
 
-- [Kapitel 1 - Bash](./teil01_kapitel01_bash.md)
-- [Kapitel 2 - Systemd](./teil01_kapitel02_systemd.md)
-- [Kapitel 3 - cronjobs](./teil01_kapitel03_cronjobs.md)
-- [Kapitel 4 - parted](./teil01_kapitel04_parted.md)
-- [Kapitel 5 - du](./teil01_kapitel05_du.md)
-- [Kapitel 6 - bash history](./teil01_kapitel06_bash_history.md)
-- [Kapitel 7 - ffmpeg](./teil01_kapitel07_ffmpeg.md)
-- [Kapitel 8 - nmap](./teil01_kapitel08_nmap.md)
-- [Kapitel 9 - ssh](./teil01_kapitel09_ssh.md)
+- [Kapitel 1 - Bash](./teil01/teil01_kapitel01_bash.md)
+- [Kapitel 2 - Systemd](./teil01/teil01_kapitel02_systemd.md)
+- [Kapitel 3 - cronjobs](./teil01/teil01_kapitel03_cronjobs.md)
+- [Kapitel 4 - parted](./teil01/teil01_kapitel04_parted.md)
+- [Kapitel 5 - du](./teil01/teil01_kapitel05_du.md)
+- [Kapitel 6 - bash history](./teil01/teil01_kapitel06_bash_history.md)
+- [Kapitel 7 - ffmpeg](./teil01/teil01_kapitel07_ffmpeg.md)
+- [Kapitel 8 - nmap](./teil01/teil01_kapitel08_nmap.md)
+- [Kapitel 9 - ssh](./teil01/teil01_kapitel09_ssh.md)
 
 ### Zweiter Teil: 
-- [Kapitel 1 - Git](./teil02_kapitel01_git.md)
-- [Kapitel 2 - Vim](./teil02_kapitel02_vim.md)
-- [Kapitel 3 - docker](./teil02_kapitel03_docker.md)
-- [Kapitel 4 - apt/dpkg](./teil02_kapitel04_apt.md)
-- [Kapitel 5 - awk](./teil02_kapitel05_dummy.md)
-- [Kapitel 6 - dummy](./teil02_kapitel06_dummy.md)
-- [Kapitel 7 - dummy](./teil02_kapitel07_dummy.md)
-- [Kapitel 8 - dummy](./teil02_kapitel08_dummy.md)
-- [Kapitel 9- dummy](./teil02_kapitel09_dummy.md)
+- [Kapitel 1 - Git](./teil02/teil02_kapitel01_git.md)
+- [Kapitel 2 - Vim](./teil02/teil02_kapitel02_vim.md)
+- [Kapitel 3 - docker](./teil02/teil02_kapitel03_docker.md)
+- [Kapitel 4 - apt/dpkg](./teil02/teil02_kapitel04_apt.md)
+- [Kapitel 5 - awk](./teil02/teil02_kapitel05_dummy.md)
+- [Kapitel 6 - dummy](./teil02/teil02_kapitel06_dummy.md)
+- [Kapitel 7 - dummy](./teil02/teil02_kapitel07_dummy.md)
+- [Kapitel 8 - dummy](./teil02/teil02_kapitel08_dummy.md)
+- [Kapitel 9- dummy](./teil02/teil02_kapitel09_dummy.md)
 - [Kapitel 10 - LPCI Kurs Datei noch umbenenne dummy](./teil02_kapitel10_dummy.md)
 
 
 
 
 ### LPIC-3 Mixed Environments Exam 300 Objectives
-- [Kapitel 1 - Samba Basics](./teil03_kapitel01_Samba_Basics.md)
-- Samba and Active Directory Domains [Kapitel 2 - dummy](./teil03_kapitel02_dummy.md)
-- Samba Share Configuration [Kapitel 3 - dummy](./teil03_kapitel03_dummy.md)
-- Samba Client Configuration [Kapitel 4 - dummy](./teil03_kapitel04_dummy.md)
-- Linux Identity Management and File Sharing  [Kapitel 5 - dummy](./teil03_kapitel05_dummy.md)
-- [Kapitel 6 - dummy](./teil03_kapitel06_dummy.md)
-- [Kapitel 7 - dummy](./teil03_kapitel07_dummy.md)
-- [Kapitel 8 - dummy](./teil03_kapitel08_dummy.md)
-- [Kapitel 9 - dummy](./teil03_kapitel09_dummy.md)
-- [Kapitel 10 - dummy](./teil03_kapitel10_dummy.md)
+- [Kapitel 1 - Samba Basics](./teil03/teil03_kapitel01_Samba_Basics.md)
+- Samba and Active Directory Domains [Kapitel 2 - dummy](./teil03/teil03_kapitel02_dummy.md)
+- Samba Share Configuration [Kapitel 3 - dummy](./teil03/teil03_kapitel03_dummy.md)
+- Samba Client Configuration [Kapitel 4 - dummy](./teil03/teil03_kapitel04_dummy.md)
+- Linux Identity Management and File Sharing  [Kapitel 5 - dummy](./teil03/teil03_kapitel05_dummy.md)
+- [Kapitel 6 - dummy](./teil03/teil03_kapitel06_dummy.md)
+- [Kapitel 7 - dummy](./teil03/teil03_kapitel07_dummy.md)
+- [Kapitel 8 - dummy](./teil03/teil03_kapitel08_dummy.md)
+- [Kapitel 9 - dummy](./teil03/teil03_kapitel09_dummy.md)
+- [Kapitel 10 - dummy](./teil03/teil03_kapitel10_dummy.md)
 
 ### Nichts ist beständiger als die Veränderung
 
