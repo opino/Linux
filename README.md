@@ -1,4 +1,4 @@
-Nxoch einsortieren, das ist im Prinzip LPC 2 Mail (aus dem Linux Magazin)
+Noch einsortieren, das ist im Prinzip LPC 2 Mail (aus dem Linux Magazin)
 
 Spam:
 Dunkle Mächte. Antispam-Blacklisten
@@ -62,6 +62,8 @@ Eine Sammelsurium von Befehlen die man ständig vergisst.
 - [Kapitel 0 - Einleitung](./kapitel00_einleitung.md)
 
 ### Erster Teil: 
+
+Anleitung wie man den 5 KG Hammer und das Brecheisen verwendet ohne sich ein Bein oder Auge zu amputieren.
 
 - [Kapitel 1 - Bash](./teil01/teil01_kapitel01_bash.md)
 - [Kapitel 2 - Systemd](./teil01/teil01_kapitel02_systemd.md)
