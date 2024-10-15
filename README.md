@@ -115,7 +115,7 @@ Löcher mit dem Bagger graben ohne die Gasleitung zu beschädigen.
 - [Use streams, pipes and redirects]()
 - [Create, monitor and kill processes]()
 - [Modify process execution priorities]()
-- [Search text files using regular expressions]()
+- [Search text files using regular expressions](./teil03/teil03_kapitel63_regular_expressions.md)    
 - [Basic file editing]()
 
 6.4 Topic 104: Devices, Linux Filesystems, Filesystem Hierarchy Standard
