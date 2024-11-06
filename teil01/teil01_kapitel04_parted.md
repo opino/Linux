@@ -19,3 +19,7 @@ dmesg
 growpart /dev/sdd 1
 resize2fs /dev/sdd1
 ```
+#### sdc 1
+```
+echo 1 > /sys/class/block/sdc/device/rescan && growpart /dev/sdc 1 && resize2fs /dev/sdc1
+```
