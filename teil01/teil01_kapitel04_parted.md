@@ -18,7 +18,7 @@ Growpart ist Teil von dem "cloud-guest-utils" Paket.
 ```
 sudo apt install cloud-guest-utils
 ```
-Mit dmesg Kernelmeldungen prüfen ob die Vergrößerung erkannt wurde
+Mit dem Befehl dmesg Kernelmeldungen prüfen, ob die Vergrößerung erkannt wurde.
 
 ##### sdd 1
 ```
