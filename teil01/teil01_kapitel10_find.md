@@ -8,16 +8,15 @@ erst Disk vergrößern,
 dann Partition vergrößern
 
 ```
-find asdfas 
+find <ort> -type f -name test
 ```
-#### find -name
+#### find Stringsuche 
 
-Linux ist ein Betriebsystem von dem 
 ```
-sudo apt install cloud-guest-utils
+find / -type f -exec grep -H 'text-to-find-here' {} \;
 ```
 
-##### sdd 1
+##### Platzhalter
 ```
-echo 1 > /sys/class/block/sda/device/rescan && growpart /dev/sdd 1 && resize2fs /dev/sdd1
+...
 ```
