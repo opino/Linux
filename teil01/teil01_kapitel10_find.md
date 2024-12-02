@@ -4,8 +4,6 @@
 
 ### 
 
-erst Disk vergrößern,
-dann Partition vergrößern
 
 ```
 find <ort> -type f -name test
