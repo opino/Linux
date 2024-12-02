@@ -74,6 +74,8 @@ Wie man den 5 KG Hammer schwingt oder das Brecheisen einsetzt ohne sich dabei ei
 - [Kapitel 7 - ffmpeg](./teil01/teil01_kapitel07_ffmpeg.md)
 - [Kapitel 8 - nmap](./teil01/teil01_kapitel08_nmap.md)
 - [Kapitel 9 - ssh](./teil01/teil01_kapitel09_ssh.md)
+- [Kapitel 10 - find](./teil01_kapitel10_find.md)
+
 
 ### Zweiter Teil: 
 
