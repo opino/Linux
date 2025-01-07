@@ -17,6 +17,14 @@ apt update && apt upgrade
 ```
  apt-get purge linux-image-unsigned-6.1.1-0601010-generic
 ```
+### auflisten
+
+```
+ apt list --installed | wc -l # Alle installierten Pakete anzeigen
+ apt list | wc -l
+```
+
+
 
 ## dpkg 
 
