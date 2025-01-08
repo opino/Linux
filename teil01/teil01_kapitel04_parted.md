@@ -20,11 +20,18 @@ sudo apt install cloud-guest-utils
 ```
 Mit dem Befehl dmesg Kernelmeldungen prüfen, ob die Vergrößerung erkannt wurde.
 
-##### sdd 1
-```
-echo 1 > /sys/class/block/sda/device/rescan && growpart /dev/sdd 1 && resize2fs /dev/sdd1
-```
+
 ##### sdc 1
 ```
 echo 1 > /sys/class/block/sdc/device/rescan && growpart /dev/sdc 1 && resize2fs /dev/sdc1
+```
+
+###### sdd 1
+```
+echo 1 > /sys/class/block/sdd/device/rescan && growpart /dev/sdd 1 && resize2fs /dev/sdd1
+```
+
+###### sd2 1
+```
+echo 1 > /sys/class/block/sde/device/rescan && growpart /dev/sde 1 && resize2fs /dev/sde1
 ```
