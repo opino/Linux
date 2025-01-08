@@ -31,7 +31,7 @@ echo 1 > /sys/class/block/sdc/device/rescan && growpart /dev/sdc 1 && resize2fs 
 echo 1 > /sys/class/block/sdd/device/rescan && growpart /dev/sdd 1 && resize2fs /dev/sdd1
 ```
 
-###### sd2 1
+###### sde 1
 ```
 echo 1 > /sys/class/block/sde/device/rescan && growpart /dev/sde 1 && resize2fs /dev/sde1
 ```
