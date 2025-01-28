@@ -149,7 +149,7 @@ Tools die nicht selbsterklörend sind
 
 7.4 Topic 108: Essential System Services
 - [Maintain system time]()
-- [System logging](./teil04/teil04_kapitel74_system_logging.md)
+- [System logging](./teil03/teil04_kapitel74_system_logging.md)
 - [Mail Transfer Agent (MTA) basics]()
 - [Manage printers and printing]()
 
