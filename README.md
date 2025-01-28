@@ -63,7 +63,7 @@ Eine Sammelsurium von Befehlen die man ständig vergisst.
 
 ### Erster Teil: 
 
-Wie man den 5 KG Hammer schwingt oder das Brecheisen einsetzt ohne sich dabei ein Bein oder Auge zu amputieren.
+Linux Basics 
 
 - [Kapitel 1 - Bash](./teil01/teil01_kapitel01_bash.md)
 - [Kapitel 2 - Systemd](./teil01/teil01_kapitel02_systemd.md)
@@ -79,7 +79,7 @@ Wie man den 5 KG Hammer schwingt oder das Brecheisen einsetzt ohne sich dabei ei
 
 ### Zweiter Teil: 
 
-Löcher mit dem Bagger graben ohne die Gasleitung zu beschädigen.
+Tools die nicht selbsterklörend sind
 
 - [Kapitel 1 - Git](./teil02/teil02_kapitel01_git.md)
 - [Kapitel 2 - Vim](./teil02/teil02_kapitel02_vim.md)
