@@ -34,3 +34,8 @@ The following is a partial list of the used files, terms and utilities:
 * systemd-cat
 * /etc/systemd/journald.conf
 * /var/log/journal/
+
+
+# Prüfungsvorbereitung aus 2007 
+
+* https://www.linux-magazin.de/ausgaben/2007/06/aufgepasst-und-ueberwacht/
