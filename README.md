@@ -117,7 +117,7 @@ Tools die nicht selbsterklörend sind
 - [Use streams, pipes and redirects]()
 - [Create, monitor and kill processes]()
 - [Modify process execution priorities]()
-- [Search text files using regular expressions](./teil03/teil03_kapitel63_regular_expressions.md)    
+- [Search text files using regular expressions](./teil03/teil04_kapitel63_regular_expressions.md)    
 - [Basic file editing]()
 
 6.4 Topic 104: Devices, Linux Filesystems, Filesystem Hierarchy Standard
@@ -149,7 +149,7 @@ Tools die nicht selbsterklörend sind
 
 7.4 Topic 108: Essential System Services
 - [Maintain system time]()
-- [System logging]()
+- [System logging](./teil04/teil04_kapitel74_system_logging.md)
 - [Mail Transfer Agent (MTA) basics]()
 - [Manage printers and printing]()
 
