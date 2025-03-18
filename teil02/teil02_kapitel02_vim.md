@@ -1,5 +1,13 @@
 # Vim  
 
+## Vim als Standarteditor unter Ubuntu einrichten
+
+
+
+```
+update-alternatives --query editor
+```
+
 ## suchen und ersetzen 
 
 ```
