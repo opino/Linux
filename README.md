@@ -75,7 +75,7 @@ Linux Basics
 - [Kapitel 8 - nmap](./teil01/teil01_kapitel08_nmap.md)
 - [Kapitel 9 - ssh](./teil01/teil01_kapitel09_ssh.md)
 - [Kapitel 10 - find](./teil01/teil01_kapitel10_find.md)
-- [Kapitel 11 - find](./teil01_kapitel11_cut.md)
+- [Kapitel 11 - cut](./teil01_kapitel11_cut.md)
 
 
 ### Zweiter Teil: 
