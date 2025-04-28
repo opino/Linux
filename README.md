@@ -80,7 +80,7 @@ Linux Basics
 
 ### Zweiter Teil: 
 
-Tools die nicht selbsterklörend sind
+Tools die nicht selbsterklärend sind
 
 - [Kapitel 1 - Git](./teil02/teil02_kapitel01_git.md)
 - [Kapitel 2 - Vim](./teil02/teil02_kapitel02_vim.md)
