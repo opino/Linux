@@ -1,12 +1,14 @@
 # Git
 
 ## Github and Personal Token Bullshieetha
+
+ ```
  vim README.md
  git add README.md
  git commit
  git commit --amend --reset-author
  git push origin main
-
+```
 
 
 ## Git Einstellungen
