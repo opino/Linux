@@ -34,7 +34,7 @@ Tools die nicht selbsterklärend sind
 - [Kapitel 3 - docker](./teil02/teil02_kapitel03_docker.md)
 - [Kapitel 4 - apt/dpkg](./teil02/teil02_kapitel04_apt.md)
 - [Kapitel 5 - awk](./teil02/teil02_kapitel05_dummy.md)
-- [Kapitel 6 - dummy](./teil02/teil02_kapitel06_ffmpeg.md)
+- [Kapitel 6 - ffmpeg](./teil02/teil02_kapitel06_ffmpeg.md)
 - [Kapitel 7 - dummy](./teil02/teil02_kapitel07_dummy.md)
 - [Kapitel 8 - dummy](./teil02/teil02_kapitel08_dummy.md)
 - [Kapitel 9- dummy](./teil02/teil02_kapitel09_dummy.md)
