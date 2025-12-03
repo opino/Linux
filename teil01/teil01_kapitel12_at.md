@@ -4,7 +4,9 @@ apt-get install at
 
 ## Übersichten, Tabellen und Referenzen 
 
-atq Jobnummer und ausführungszeiten
+atq Liste aller Jobs mit Ausführungszeiten
+at -l 
+atrm Job entfernen
 
 ### 
 
