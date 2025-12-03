@@ -24,7 +24,7 @@ Anschließend gibt man die gewünschten Befehle ein und schließt die Eingabe mi
 | `atq`         | Listet **alle geplanten Jobs** im System mit den Ausführungszeiten. |
 | `at -l`       | Listet nur die geplanten **Jobs des aktuellen Benutzers** mit den Ausführungszeiten. |
 | `atrm <Job-ID>` | Entfernt den angegebenen Job aus der Warteschlange, basierend auf der **Job-ID**. Beispiel: `atrm 2` entfernt Job mit ID 2. |
-| batch  | |
+| `batch`  | |
 
 
 
