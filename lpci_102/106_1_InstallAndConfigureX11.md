@@ -1,0 +1,24 @@
+# 106.1 Install and Configure X11 (weight: 2)
+
+| **Weight**     | 2                                                                                                                       |
+|----------------|:------------------------------------------------------------------------------------------------------------------------|
+| **Description** | Candidates should be able to install and configure X11. |
+
+## Key Knowledge Areas:
+
+- Understanding of the X11 architecture
+- Basic understanding and knowledge of the X Window configuration file
+- Overwrite specific aspects of Xorg configuration, such as keyboard layout
+- Understand the components of desktop environments, such as display managers and window managers
+- Manage access to the X server and display applications on remote X servers
+- Awareness of Wayland
+
+## The following is a partial list of the used files, terms and utilities:
+
+- [/etc/X11/xorg.conf](#etcX11xorgconf)
+- [/etc/X11/xorg.conf.d/](#etcX11xorgconfd)
+- [~/.xsession-errors](#xsessionerrors)
+- [xhost](#xhost)
+- [xauth](#xauth)
+- [DISPLAY](#display)
+- [X](#x)
