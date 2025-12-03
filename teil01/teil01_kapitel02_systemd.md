@@ -2,10 +2,23 @@
 
 ## journalctl
 
+/etc/systemd/journald.conf
+
 ### Befehle
 ```
 journalctl --disk-usage
 ```
+
+```
+journalctl --list-boots
+```
+
+```
+journalctl --vacuum-time=3weeks
+```
+
+
+
 
 
 

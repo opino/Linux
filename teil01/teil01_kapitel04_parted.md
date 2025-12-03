@@ -35,3 +35,20 @@ echo 1 > /sys/class/block/sdd/device/rescan && growpart /dev/sdd 1 && resize2fs 
 ```
 echo 1 > /sys/class/block/sde/device/rescan && growpart /dev/sde 1 && resize2fs /dev/sde1
 ```
+
+### Swap vergößern
+
+###### sdb1 SWAP 
+```
+free -h
+swapoff /dev/sdb1
+mkswap /dev/sdb1
+swapon /dev/sdb1
+free -h
+```
+
+
+
+
+
+#
