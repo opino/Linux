@@ -1,18 +1,19 @@
-104.6 Create and change hard and symbolic links
-Weight
+# 104.5 Manage File Permissions and Ownership (weight: 3)
 
-2
-Description
+| **Weight**     | 3                                                                                                                       |
+|----------------|:------------------------------------------------------------------------------------------------------------------------|
+| **Description** | Candidates should be able to control file access through the proper use of permissions and ownerships. |
 
-Candidates should be able to create and manage hard and symbolic links to a file.
+## Key Knowledge Areas:
 
-Key Knowledge Areas:
+- Manage access permissions on regular and special files as well as directories
+- Use access modes such as suid, sgid and the sticky bit to maintain security
+- Know how to change the file creation mask
+- Use the group field to grant file access to group members
 
-Create links.
-Identify hard and/or soft links.
-Copying versus linking files.
-Use links to support system administration tasks.
-The following is a partial list of the used files, terms and utilities:
+## The following is a partial list of the used files, terms and utilities:
 
-ln
-ls
+- [chmod](#chmod)
+- [umask](#umask)
+- [chown](#chown)
+- [chgrp](#chgrp)
