@@ -36,8 +36,11 @@ Services und Units starten, stoppen und verwalten
 ```
 systemcttr [start|stop|restart|enable|disable|status] nginx
 
-
 systemctl list-units
+```
 
+### systemd-analyze
 
+```
+systemd-analyze critical-chain nginx.service
 ```
