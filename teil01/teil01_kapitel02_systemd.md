@@ -2,32 +2,21 @@
 
 ## journalctl
 
-Zeigt Logs vom System oder Systemd Services- oder Units an.
-
-/etc/systemd/journald.conf
+Zeigt Logs vom System oder Systemd Services an.
 
 ### Befehle
 ```
-journalctl --disk-usage
-```
-
-```
 journalctl --list-boots
-```
 
-```
+journalctl --disk-usage
 journalctl --vacuum-time=3weeks
 ```
+### Konfiguration  
 
+* /etc/systemd/journald.conf
 
-
-
-
-
-### Größenbeschränkungen für die journalctl log 
-* Damit die Einstellungen nicht nach dem Update weg sind müssen die einstellungen in eine extra Datei:
-* https://askubuntu.com/questions/1012912/systemd-logs-journalctl-are-too-large-and-slow  
-/etc/systemd/journald.conf.d/01-journal-size.conf
+**  Damit die Einstellungen bei einem Update nicht überschrieben werden; extra Datei:
+** /etc/systemd/journald.conf.d/01-journal-size.conf
 
 ```
 [Journal]
