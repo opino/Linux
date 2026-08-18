@@ -37,6 +37,11 @@ Services und Units starten, stoppen und verwalten
 systemcttr [start|stop|restart|enable|disable|status] nginx
 
 systemctl list-units
+systemctl list-dependencies nginx
+systemctl list-dependencies --reverse nginx
+systemctl cat nginx
+systemctl is-enabled nginx
+
 ```
 
 ### systemd-analyze
