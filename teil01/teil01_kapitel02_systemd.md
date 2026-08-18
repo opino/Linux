@@ -2,6 +2,8 @@
 
 ## journalctl
 
+Zeigt Logs vom System oder Systemd Services- oder Units an.
+
 /etc/systemd/journald.conf
 
 ### Befehle
