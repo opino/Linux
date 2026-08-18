@@ -6,6 +6,9 @@ Zeigt Logs vom System oder Systemd Services an.
 
 ### Befehle
 ```
+journalctl -u nginx
+journalctr -b0 -r 
+
 journalctl --list-boots
 
 journalctl --disk-usage
@@ -24,4 +27,17 @@ SystemMaxUse=200M
 SystemMaxFileSize=128M
 ```
 
+## systemctr
 
+Services und Units starten, stoppen und verwalten
+
+### Befehle
+
+```
+systemcttr [start|stop|restart|enable|disable|status] nginx
+
+
+systemctl list-units
+
+
+```
